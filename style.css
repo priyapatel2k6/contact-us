@@ -60,7 +60,7 @@ input{
 }
 .footer{
     margin-top: 10rem;
-    background-image: url("images/footer-bg.png");
+    background-image: url("https://raw.githubusercontent.com/priyapatel2k6/contact-us/master/images/footer-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
