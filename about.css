@@ -1,0 +1,54 @@
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid red; */
+    width: 70%;
+    padding: 20px;
+    font-size: 18px;
+    backdrop-filter: blur(10px);
+
+}
+.parent img{
+    margin-right: 20px;
+    width: 400px;
+    height: 300px;
+}
+h2{
+    font-size: 70px;
+
+}
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://wallpapers.com/images/hd/professional-background-4myolhhxiwna65b5.jpg);
+}
+h4{
+    font-size: 40px;
+    margin: 0;
+}
+.allPhotos img{
+    width: 380px;
+}
+.allPhotos{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.allPhotos div{
+    /* border: 1px solid red; */
+    padding: 15px;
+    backdrop-filter: blur(10px);
+    margin-right: 20px;
+}
+.allPhotos div p{
+    margin-left: 60px;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+
+}

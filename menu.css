@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255) !important; /* Force white text color */
+}
+
+.parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/016/337/742/original/banner-web-page-landing-page-horizontal-with-asian-food-japanese-restaurant-concept-girls-eating-sushi-rolls-ramen-vector.jpg);
+    background-size: cover;
+    padding-top: 30px;
+}
+
+.heading {
+    color: rgb(255, 255, 255) !important; /* Force white text color */
+    font-size: 70px;
+    font-weight: 900;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 1% 0%;
+    background-color: rgb(234, 229, 217);
+}
+
+.parent1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 60px;
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+    width: 550px;
+    padding: 14px;
+    backdrop-filter: blur(10px);
+    margin-bottom: 36px;
+    padding: 20px;
+}
+
+.parent2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+span {
+    color: rgb(255, 255, 255) !important; /* Force white text color */
+}
+
+h3 {
+    color: rgb(255, 255, 255) !important; /* Force white text color */
+    margin-bottom: 5px;
+    margin-top: 11px;
+}
+
+p {
+    color: rgb(255, 255, 255) !important; /* Force white text color */
+    margin-top: 5px;
+}
+
+img {
+    margin-right: 15px;
+    border-radius: 12px;
+}
