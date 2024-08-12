@@ -1,0 +1,24 @@
+/* #contact{
+    padding:25px 0 25px 0 ;
+}
+#contact_row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 100px 0 100px;
+    flex-wrap: wrap;
+}
+.contact_col{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    flex: 1;
+
+}
+.contact_col{
+    font-weight: bold;
+    color: aqua;
+    margin: 10px;
+
+} */
+
