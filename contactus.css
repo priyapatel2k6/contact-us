@@ -6,6 +6,7 @@
     font-size: 2rem;
     text-transform: uppercase;
     text-align: center;
+    margin-bottom: 2rem;
 }
 .contact_main_heading{
     text-align: center;
@@ -86,6 +87,13 @@ input{
 .social h4{
     margin-bottom: 2rem;
     font-size: 2rem;
+}
+.go_home{
+    text-align: center;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
 }
 @media screen and (max-width: 800px) {
     .img1{

@@ -16,13 +16,16 @@
 }
 
 .heading {
-    color: rgb(255, 255, 255) !important; /* Force white text color */
+    color:orange !important; /* Force white text color */
     font-size: 70px;
     font-weight: 900;
     font-family: sans-serif;
     text-align: center;
     padding: 1% 0%;
     background-color: rgb(234, 229, 217);
+}
+a{
+    text-decoration: none;
 }
 
 .parent1 {
